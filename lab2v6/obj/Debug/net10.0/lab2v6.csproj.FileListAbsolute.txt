@@ -1,0 +1,14 @@
+C:\Users\Admin\OOP-Demchenko\lab2v6\bin\Debug\net10.0\lab2v6.exe
+C:\Users\Admin\OOP-Demchenko\lab2v6\bin\Debug\net10.0\lab2v6.deps.json
+C:\Users\Admin\OOP-Demchenko\lab2v6\bin\Debug\net10.0\lab2v6.runtimeconfig.json
+C:\Users\Admin\OOP-Demchenko\lab2v6\bin\Debug\net10.0\lab2v6.dll
+C:\Users\Admin\OOP-Demchenko\lab2v6\bin\Debug\net10.0\lab2v6.pdb
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.AssemblyInfoInputs.cache
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.AssemblyInfo.cs
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.dll
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\refint\lab2v6.dll
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.pdb
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.genruntimeconfig.cache
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\ref\lab2v6.dll
