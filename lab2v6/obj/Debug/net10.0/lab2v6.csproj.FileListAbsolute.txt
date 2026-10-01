@@ -12,3 +12,4 @@ C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\refint\lab2v6.dll
 C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.pdb
 C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.genruntimeconfig.cache
 C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\ref\lab2v6.dll
+C:\Users\Admin\OOP-Demchenko\lab2v6\obj\Debug\net10.0\lab2v6.sourcelink.json
