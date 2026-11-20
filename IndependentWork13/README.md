@@ -15,4 +15,4 @@
 
 ## Запуск проєкту (рекомендовано в режимі Release)
 
-![ww](https://github.com/demchenkovvkn24-cloud/OOP-Demchenko/blob/main/IndependentWork9/image.png)
+![ww](https://github.com/demchenkovvkn24-cloud/OOP-Demchenko/blob/main/IndependentWork13/image.png)
