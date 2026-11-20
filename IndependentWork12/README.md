@@ -14,4 +14,4 @@
 
 ## Запуск проєкту
 
-![ss](https://github.com/demchenkovvkn24-cloud/OOP-Demchenko/blob/main/IndependentWork9/image.png)
+![ss](https://github.com/demchenkovvkn24-cloud/OOP-Demchenko/blob/main/IndependentWork12/image.png)
