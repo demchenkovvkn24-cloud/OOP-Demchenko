@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IndependentWork7\IndependentWork7.csproj" />
+    <ProjectReference Include="..\IndependentWork8\IndependentWork8.csproj" />
   </ItemGroup>
 
 </Project>
